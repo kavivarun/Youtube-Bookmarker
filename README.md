@@ -1,5 +1,6 @@
 # Youtube-Bookmark
-A MERN-Stack application that uses the youtube-API to add bookmarks of youtube videos with their statistics when you enter the video link
+A MERN-Stack application that uses the youtube-API to add bookmarks of youtube videos with their statistics when you enter the video link.
+App is hosted at- https://mighty-island-72327.herokuapp.com/
 
 ### Important
 
